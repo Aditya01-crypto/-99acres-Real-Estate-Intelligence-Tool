@@ -211,7 +211,7 @@ Prestige Park    | ₹ 95 Lac-1.4 Cr | 2, 3 BHK         | Wakad, Pune
 
 ## 📊 Excel Output (Scraped Data)
 
-![Excel Output](https://raw.githubusercontent.com/Aditya01-crypto/99acres-scraper/main/OutputMediaFiles/excel_output.png)
+![Excel Output](https://raw.githubusercontent.com/Aditya01-crypto/99acres-scraper/main/OutputMediaFiles/excel_ouput.png)
 
 ---
 
